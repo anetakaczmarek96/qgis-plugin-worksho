@@ -1,2 +1,2 @@
-# qgis-plugin-worksho
+# qgis-plugin-workshop
 My best walking
